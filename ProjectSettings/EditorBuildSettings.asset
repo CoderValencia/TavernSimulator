@@ -4,9 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ed37da68f4e46b0468a065ceca202789
+  - enabled: 1
+    path: Assets/VR Examples/Scenes/Grab Interaction 1.unity
+    guid: d1774eecf0b185440829b7b39b3ac741
+  - enabled: 1
+    path: Assets/Scenes/Tavern FP.unity
+    guid: 5f957dda4b66f6249860b95eb2c5edf0
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b77a1943367e33b4584e1740b99422ea, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 93bb82490ac8de747905fcad2a33d0e2, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4b2c7337be7cd4041a580b0d62ae7fdd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1252938ee30e36149bbdf8251033d603, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 69b2c6b76bfc9ab43af209b85461fa1b, type: 2}
